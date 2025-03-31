@@ -78,3 +78,4 @@ npm install --legacy-peer-deps
 
 - The `--legacy-peer-deps` flag tells npm to ignore the peer dependency conflicts and install the packages anyway.
 - This is useful when you're working with packages that have not been updated to support the latest versions of their dependencies, or when you're using specific versions of libraries that are incompatible with the latest versions.
+ 
